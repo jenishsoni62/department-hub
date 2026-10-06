@@ -1,0 +1,21 @@
+{
+  "name": "department-hub",
+  "version": "6.0.0",
+  "description": "Help tickets, recurring checklists, delegation boards and FMS processes with department-wise access",
+  "private": true,
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js",
+    "demo": "node --disable-warning=ExperimentalWarning seed-demo.js",
+    "start:demo": "node --disable-warning=ExperimentalWarning seed-demo.js && node --disable-warning=ExperimentalWarning server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.10.1",
+    "xlsx": "^0.18.5"
+  }
+}
