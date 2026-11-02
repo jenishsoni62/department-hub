@@ -1,0 +1,965 @@
+[
+ {
+  "name": "Rajesh Shah",
+  "designation": "Managing Director",
+  "email": "rajesh@eurobondacp.com",
+  "dept": "Management",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Divyam Shah",
+  "designation": "Whole Time Director",
+  "email": "divyam@eurobondacp.com",
+  "dept": "Management",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Rahul Gada",
+  "designation": "Chief Operating Officer",
+  "email": "rahul@eurobondacp.com",
+  "dept": "Management",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Gireeja Chavan",
+  "designation": "G.M. - HR",
+  "email": "hr@eurobondacp.com",
+  "dept": "HR & Admin",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Nitesh Bhagate",
+  "designation": "Sr. Executive - HR",
+  "email": "hr1@eurobondacp.com",
+  "dept": "HR & Admin",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Siddhi Shivgan",
+  "designation": "Executive - Human Resources",
+  "email": "careers1@eurobondacp.com",
+  "dept": "HR & Admin",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Divyesh Kadu",
+  "designation": "Executive - HR",
+  "email": "hr2@eurobondacp.com",
+  "dept": "HR & Admin",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Kasturi Mishra",
+  "designation": "Executive - HR",
+  "email": "careers@eurobondacp.com",
+  "dept": "HR & Admin",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Abhilash Sable",
+  "designation": "Sr. Executive - Admin",
+  "email": "admin@eurobondacp.com",
+  "dept": "HR & Admin",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Rakesh Patil",
+  "designation": "Executive-Admin",
+  "email": "admin1@eurobondacp.com",
+  "dept": "HR & Admin",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Reception",
+  "designation": "Reception",
+  "email": "reception@eurobondacp.com",
+  "dept": "HR & Admin",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Akshay Sanjay Shah",
+  "designation": "IT Support Engineer",
+  "email": "it@eurobondacp.com",
+  "dept": "IT Support",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Nikita Jha",
+  "designation": "Executive Assistant",
+  "email": "ea@eurobondacp.com",
+  "dept": "Executive Assistant",
+  "hod": false,
+  "role": "admin",
+  "move": true
+ },
+ {
+  "name": "Aishwarya Manjrekar",
+  "designation": "Process Co-ordinator",
+  "email": "processflow@eurobondacp.com",
+  "dept": "Process Co-ordination",
+  "hod": false,
+  "role": "pc"
+ },
+ {
+  "name": "Anil Kumar Chaudhary",
+  "designation": "Data Entry Operator",
+  "email": "dataentry@eurobondacp.com",
+  "dept": "Process Co-ordination",
+  "hod": false,
+  "role": "pc"
+ },
+ {
+  "name": "Bharat jain",
+  "designation": "Chef finance & Accounts Manager",
+  "email": "accounts@eurobondacp.com",
+  "dept": "Accounts",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Kaushik Patel",
+  "designation": "General Manager - Accounts",
+  "email": "accounts4@eurobondacp.com",
+  "dept": "Accounts",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Sonali Remje",
+  "designation": "Sr. Executive - Accounts",
+  "email": "accounts2@eurobondacp.com",
+  "dept": "Accounts",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Swati Vikas Kantak",
+  "designation": "Sr. Executive - Accounts",
+  "email": "accounts5@eurobondacp.com",
+  "dept": "Accounts",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Deepali Ketan Kotkar",
+  "designation": "Assistant Manager - Taxation & Accounts",
+  "email": "accounts3@eurobondacp.com",
+  "dept": "Accounts",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Sanket Santosh Narvekar",
+  "designation": "Executive - Accounts",
+  "email": "accounts1@eurobondacp.com",
+  "dept": "Accounts",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Meena Sawant",
+  "designation": "Executive - Accounts",
+  "email": "accounts7@eurobondacp.com",
+  "dept": "Accounts",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Swapnali Mohite",
+  "designation": "Executive - Accounts",
+  "email": "accounts6@eurobondacp.com",
+  "dept": "Accounts",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Raj Domble",
+  "designation": "Jr.Executive - Accounts",
+  "email": "accounts8@eurobondacp.com",
+  "dept": "Accounts",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Abhishek Vishnu Jha",
+  "designation": "Executive - Accounts",
+  "email": "accounts10@eurobondacp.com",
+  "dept": "Accounts",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Bhavesh Mayani",
+  "designation": "G.M. - Procurement",
+  "email": "mayani@eurobondacp.com",
+  "dept": "Purchase",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Divya Mandip Monani",
+  "designation": "Sr. Executive - Purchase",
+  "email": "purchase1@eurobondacp.com",
+  "dept": "Purchase",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Aarti Shankar Padyal",
+  "designation": "Executive - Purchase",
+  "email": "purchase@eurobondacp.com",
+  "dept": "Purchase",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Bharati Vaibhav Patil",
+  "designation": "Executive - Purchase",
+  "email": "purchase2@eurobondacp.com",
+  "dept": "Purchase",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Santosh Shetty",
+  "designation": "Sr. Manager - Credit Control",
+  "email": "santosh@eurobondacp.com",
+  "dept": "Credit Control",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Mohini Nagare",
+  "designation": "Sr. Executive - Credit Control",
+  "email": "creditcontrol@eurobondacp.com",
+  "dept": "Credit Control",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Subhash Medage",
+  "designation": "Executive - Credit Control",
+  "email": "creditcontrol2@eurobondacp.com",
+  "dept": "Credit Control",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Swapnil Sawant",
+  "designation": "Executive - Credit Control",
+  "email": "creditcontrol1@eurobondacp.com",
+  "dept": "Credit Control",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Komal Chile",
+  "designation": "Executive - Credit Control",
+  "email": "creditcontrol3@eurobondacp.com",
+  "dept": "Credit Control",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Harsh Agarwal",
+  "designation": "Executive - Credit Control",
+  "email": "creditcontrol4@eurobondacp.com",
+  "dept": "Credit Control",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Supriya Pawar",
+  "designation": "Executive - Credit Control",
+  "email": "creditcontrol6@eurobondacp.com",
+  "dept": "Credit Control",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Vinod Kumawat",
+  "designation": "Asst.Manager OP & PP",
+  "email": "planning@eurobondacp.com",
+  "dept": "Order Process & Production",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Bhakti Parab",
+  "designation": "Asst.Manager OP & PP",
+  "email": "orders1@eurobondacp.com",
+  "dept": "Order Process & Production",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Snehal Ajay khandke",
+  "designation": "Sr. Executive - Order Processing",
+  "email": "orders@eurobondacp.com",
+  "dept": "Order Process & Production",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Pradnya Parab",
+  "designation": "Executive - Order Processing",
+  "email": "orders3@eurobondacp.com",
+  "dept": "Order Process & Production",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Jaydeep Jagdish Patil",
+  "designation": "Jr. Executive - Orders",
+  "email": "orders4@eurobondacp.com",
+  "dept": "Order Process & Production",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Suchit Prakash Shelar",
+  "designation": "Executive - Order Processing",
+  "email": "orders5@eurobondacp.com",
+  "dept": "Order Process & Production",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Yashvi Rajesh Shah",
+  "designation": "Manager - Marketing & Communication",
+  "email": "yashvi@eurobondacp.com",
+  "dept": "Marketing",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Priyanca Oswin Dsouza",
+  "designation": "Assistant Manager - Marketing & Communications",
+  "email": "marketing@eurobondacp.com",
+  "dept": "Marketing",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Prasad Korgaonkar",
+  "designation": "Assistant Manager - Branding & Events",
+  "email": "marketing1@eurobondacp.com",
+  "dept": "Marketing",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Dnyaneshwar Kedar",
+  "designation": "Executive - SEO",
+  "email": "seo@eurobondacp.com",
+  "dept": "Marketing",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Keyuree Joshi",
+  "designation": "Marketing Executive",
+  "email": "marketing3@eurobondacp.com",
+  "dept": "Marketing",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Omkar Shigavan",
+  "designation": "Jr. Graphics Designer",
+  "email": "graphics@eurobondacp.com",
+  "dept": "Marketing",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Ritesh Mohar Rai",
+  "designation": "Senior Executive - Events",
+  "email": "events@eurobondacp.com",
+  "dept": "Marketing",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Ritesh Jayaram Pandi",
+  "designation": "Graphics Designer",
+  "email": "graphics1@eurobondacp.com",
+  "dept": "Marketing",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Raktim Ghosh",
+  "designation": "Performance Marketing Associate",
+  "email": "sem@eurobondacp.com",
+  "dept": "Marketing",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Smarajit Mondal",
+  "designation": "Video Content Executive",
+  "email": "edits@eurobondacp.com",
+  "dept": "Marketing",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Karthik Yella",
+  "designation": "Marketing Intern",
+  "email": "marketingintern@eurobondacp.com",
+  "dept": "Marketing",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Chitrakala Bamane",
+  "designation": "Manager - Sales Co-ordinator",
+  "email": "sales@eurobondacp.com",
+  "dept": "Sales Co-ordination & Projects",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Nirmala Anant Ghadi",
+  "designation": "Sr. Sales Co-ordinator",
+  "email": "sales2@eurobondacp.com",
+  "dept": "Sales Co-ordination & Projects",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Santosh Dashrath Mane",
+  "designation": "Sr. Sales Co-ordinator",
+  "email": "sales3@eurobondacp.com",
+  "dept": "Sales Co-ordination & Projects",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Shania lobo",
+  "designation": "Sales Co-ordinator",
+  "email": "projects@eurobondacp.com",
+  "dept": "Sales Co-ordination & Projects",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Anjali Pal",
+  "designation": "Sales Co-ordinator",
+  "email": "sales4@eurobondacp.com",
+  "dept": "Sales Co-ordination & Projects",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Govind Chaubey",
+  "designation": "Executive-Sales & Operations",
+  "email": "sales5@eurobondacp.com",
+  "dept": "Sales Co-ordination & Projects",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Kajal Nawar",
+  "designation": "Executive – Telecalling",
+  "email": "leadsales@eurobondacp.com",
+  "dept": "Sales Co-ordination & Projects",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Kartheek Gonti",
+  "designation": "Project Co-ordinator",
+  "email": "technology@eurobondacp.com",
+  "dept": "Sales Co-ordination & Projects",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Swapnil Borkar",
+  "designation": "AGM – International Business",
+  "email": "swapnil.borkar@eurobondacp.com",
+  "dept": "Export",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Kailas Thakur",
+  "designation": "Manager Exim",
+  "email": "export.docs@eurobondacp.com",
+  "dept": "Export",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Riya Rane",
+  "designation": "CRM Executive-Export",
+  "email": "export@eurobondacp.com",
+  "dept": "Export",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Tanvi Patil",
+  "designation": "CRM Executive-Export",
+  "email": "leads@eurobondacp.com",
+  "dept": "Export",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Pritam Dattatray Barkade",
+  "designation": "Regional Sales Manager – International Markets",
+  "email": "pritam.barkade@eurobondacp.com",
+  "dept": "Export",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Rajendra sahu",
+  "designation": "Manager - Inventory",
+  "email": "rajendra.sahu@eurobondacp.com",
+  "dept": "Inventory",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Vilas Tukral",
+  "designation": "AM -Inventory & Logistics",
+  "email": "inventory@eurobondacp.com",
+  "dept": "Inventory",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Amey Suhas Patil",
+  "designation": "Executive - Inventory & Warehouse",
+  "email": "inventory1@eurobondacp.com",
+  "dept": "Inventory",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Jayesh Kakade",
+  "designation": "Executive - Inventory & Warehouse",
+  "email": "inventory2@eurobondacp.com",
+  "dept": "Inventory",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Jagruti Raut",
+  "designation": "Executive - Inventory & Warehouse",
+  "email": "branch.accounts@eurobondacp.com",
+  "dept": "Inventory",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Harshad Kakade",
+  "designation": "Sr Executive - Rewards Application",
+  "email": "harshad@eurobondacp.com",
+  "dept": "Eurobond Rewards",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Saakshi Metri",
+  "designation": "Jr. Executive- Rewards",
+  "email": "rewards2@eurobondacp.com",
+  "dept": "Eurobond Rewards",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Kavita Rishikesh Deorukhakar",
+  "designation": "Sr. Executive - MIS",
+  "email": "kavita@eurobondacp.com",
+  "dept": "MIS",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Poonam Padwal",
+  "designation": "Executive - MIS",
+  "email": "mis@eurobondacp.com",
+  "dept": "MIS",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Narendra Choudhary",
+  "designation": "Executive - MIS",
+  "email": "mis1@eurobondacp.com",
+  "dept": "MIS",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Amit Anil Suman",
+  "designation": "Technical Head",
+  "email": "amit.suman@eurobondacp.com",
+  "dept": "Technical",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Aman Santosh Giri",
+  "designation": "Executive-Technical",
+  "email": "technicals@eurobondacp.com",
+  "dept": "Technical",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "ERP Assistant Manager (name missing)",
+  "designation": "Assistant Manager - System",
+  "email": "system@eurobondacp.com",
+  "dept": "ERP - TCS (System)",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Vijay More",
+  "designation": "Depot HOD",
+  "email": null,
+  "dept": "Bhiwandi Depot",
+  "hod": true,
+  "role": "member",
+  "code": "BHIW-HOD"
+ },
+ {
+  "name": "Virendra Chouhan",
+  "designation": "Executive - Dispatch",
+  "email": "bhiwandi.depot1@eurobondacp.com",
+  "dept": "Bhiwandi Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Yogesh Jadhav",
+  "designation": "Sr. Warehouse - Coordinator",
+  "email": "yogesh@eurobondacp.com",
+  "dept": "Bhiwandi Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Rupesh Pawar",
+  "designation": "Sr. Executive - Order Process",
+  "email": "rupesh.pawar@eurobondacp.com",
+  "dept": "Bhiwandi Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Namdev Tambe",
+  "designation": "Executive - Warehouse",
+  "email": "bhiwandi.depot@eurobondacp.com",
+  "dept": "Bhiwandi Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Ganesh Suryavanshi",
+  "designation": "Sr. Executive - Warehouse",
+  "email": "bhiwandi.depot3@eurobondacp.com",
+  "dept": "Bhiwandi Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Pratik Bamnolkar",
+  "designation": "Executive - Warehouse",
+  "email": "bhiwandi.depot4@eurobondacp.com",
+  "dept": "Bhiwandi Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Anil Narvekar",
+  "designation": "Executive - Warehouse",
+  "email": "bhiwandi.depot2@eurobondacp.com",
+  "dept": "Bhiwandi Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Prafulla Urakudkar",
+  "designation": "Depot HOD",
+  "email": "nagpur.depot@eurobondacp.com",
+  "dept": "Nagpur Depot",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Nitesh Bisen",
+  "designation": "Executive - Warehouse",
+  "email": "nagpur.depot1@eurobondacp.com",
+  "dept": "Nagpur Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Akshay Pote",
+  "designation": "Depot HOD",
+  "email": "pune.depot@eurobondacp.com",
+  "dept": "Pune Depot",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Darshan Jain",
+  "designation": "Jr. Executive - Warehouse",
+  "email": "pune.depot1@eurobondacp.com",
+  "dept": "Pune Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Farshuram Jethiram Dudharejia",
+  "designation": "Depot HOD",
+  "email": "amd.depot@eurobondacp.com",
+  "dept": "Ahmedabad Depot",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Dhruv Patel",
+  "designation": "Executive - Warehouse",
+  "email": "amd.depot1@eurobondacp.com",
+  "dept": "Ahmedabad Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Bharat Bhushan Parik",
+  "designation": "Depot HOD",
+  "email": "jaipur.depot@eurobondacp.com",
+  "dept": "Jaipur Depot",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Ajay Kumawat",
+  "designation": "Executive - Warehouse",
+  "email": "jaipur.depot1@eurobondacp.com",
+  "dept": "Jaipur Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Murari Lal Pareek",
+  "designation": "Depot HOD",
+  "email": "punjab.depot1@eurobondacp.com",
+  "dept": "Punjab Depot",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Rajkishore Yadav",
+  "designation": "Executive - Warehouse",
+  "email": "punjab.depot@eurobondacp.com",
+  "dept": "Punjab Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Suraj Kumar",
+  "designation": "Depot HOD",
+  "email": "delhi.depot1@eurobondacp.com",
+  "dept": "Delhi Depot",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Manjeet Singh",
+  "designation": "Sr. Executive - Warehouse",
+  "email": "delhi.depot@eurobondacp.com",
+  "dept": "Delhi Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Mohammad Irsad",
+  "designation": "Executive - Warehouse",
+  "email": "delhi.depot2@eurobondacp.com",
+  "dept": "Delhi Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Manit Chauhan",
+  "designation": "Executive - Warehouse",
+  "email": null,
+  "dept": "Delhi Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Adarsh Mishra",
+  "designation": "Depot HOD",
+  "email": "lucknow.depot@eurobondacp.com",
+  "dept": "Lucknow Depot",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Deshraj Desai",
+  "designation": "Jr. Executive - Warehouse",
+  "email": "lucknow.depot1@eurobondacp.com",
+  "dept": "Lucknow Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Alok kumar",
+  "designation": "Depot HOD",
+  "email": "ranchi.depot@eurobondacp.com",
+  "dept": "Ranchi Depot",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Albel",
+  "designation": "Executive - Warehouse",
+  "email": "ranchi.depot1@eurobondacp.com",
+  "dept": "Ranchi Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Deepak Kumar",
+  "designation": "Depot HOD",
+  "email": "guwahati.depot1@eurobondacp.com",
+  "dept": "Guwahati Depot",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Chandan Kumar Mandal",
+  "designation": "Executive - Warehouse",
+  "email": "guwahati.depot@eurobondacp.com",
+  "dept": "Guwahati Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Chandan Samanta",
+  "designation": "Depot HOD",
+  "email": "kolkata.depot@eurobondacp.com",
+  "dept": "Kolkata Depot",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Swarup Sardar",
+  "designation": "Executive - Warehouse",
+  "email": "kolkata.depot1@eurobondacp.com",
+  "dept": "Kolkata Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Bhupendra Mohapatra",
+  "designation": "Depot HOD",
+  "email": "bhubaneswar.depot1@eurobondacp.com",
+  "dept": "Bhubaneswar Depot",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Deepak Barik",
+  "designation": "Executive - Warehouse",
+  "email": "bhubaneswar.depot@eurobondacp.com",
+  "dept": "Bhubaneswar Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Prashant Kudachi",
+  "designation": "Depot HOD",
+  "email": "hubli.depot@eurobondacp.com",
+  "dept": "Hubali Depot",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Leena Sahu",
+  "designation": "Depot HOD",
+  "email": "raipur.depot@eurobondacp.com",
+  "dept": "Raipur Depot",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Divyaprakash Tripathi",
+  "designation": "Jr. Executive - Warehouse",
+  "email": "raipur.depot1@eurobondacp.com",
+  "dept": "Raipur Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Raushan Kumar",
+  "designation": "Depot HOD",
+  "email": "patna.depot@eurobondacp.com",
+  "dept": "Patna Depot",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Alok Kumar",
+  "designation": "Executive - Warehouse",
+  "email": "patna.depot1@eurobondacp.com",
+  "dept": "Patna Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Vineet Tripathi",
+  "designation": "Depot HOD",
+  "email": "indore.depot@eurobondacp.com",
+  "dept": "Indore Depot",
+  "hod": true,
+  "role": "member"
+ },
+ {
+  "name": "Arjun Solanki",
+  "designation": "Jr. Executive - Warehouse",
+  "email": "indore.depot1@eurobondacp.com",
+  "dept": "Indore Depot",
+  "hod": false,
+  "role": "member"
+ },
+ {
+  "name": "Akshay Dhuliya",
+  "designation": "Depot HOD",
+  "email": null,
+  "dept": "Dehradun Depot",
+  "hod": true,
+  "role": "member",
+  "code": "DEHR-HOD"
+ },
+ {
+  "name": "Akarshan Singh",
+  "designation": "Executive - Warehouse",
+  "email": "dehradun.depot1@eurobondacp.com",
+  "dept": "Dehradun Depot",
+  "hod": false,
+  "role": "member"
+ }
+]
