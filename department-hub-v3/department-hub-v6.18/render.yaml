@@ -1,0 +1,11 @@
+# Render "Blueprint": lets Render set everything up automatically from your GitHub repo.
+services:
+  - type: web
+    name: department-hub
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm run start:demo
+    envVars:
+      - key: NODE_VERSION
+        value: 22
